@@ -18,6 +18,9 @@ public class NestedLoop {
             System.out.println();
         }
 
+        System.out.println("merge test");
+
+
 
     }
 
