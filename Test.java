@@ -7,7 +7,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("push test ");
-        int[] myNums = {1,1,1,1,2,2,3,3,3,3,5,5,5,5,5,5,5,};
+        int[] myNums = {1,1,1,1,2,2,3,3,3,3,5,5,5,5,5,5,5,7,7,7};
         int[] topK = topKelements(myNums, 2);
         System.out.println(Arrays.toString(topK));
     }
